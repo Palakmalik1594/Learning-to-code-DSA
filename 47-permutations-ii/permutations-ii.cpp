@@ -20,6 +20,7 @@ void perm(int pos,vector<int>&nums,vector<vector<int>>&ans){
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int>>ans;
         perm(0,nums,ans);
+        sort(nums.begin(),nums.end());
         return ans;
 
         
