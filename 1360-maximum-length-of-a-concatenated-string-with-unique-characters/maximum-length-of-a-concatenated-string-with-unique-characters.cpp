@@ -1,5 +1,5 @@
 class Solution {
-
+private:
 bool compare(vector<int> &selected,string& currentstring){
     vector<int> selfcheck(26,0);
     for(int i=0;i<currentstring.size();i++){
