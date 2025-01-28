@@ -10,16 +10,7 @@ bool issafe(int i,int j,int n,vector<vector<char>>&chessboard){
         }
         tempi--;
     }
-    //up left
-    tempi=i;
-    tempj=j;
-    while(tempi>=0 && tempj>=0){
-        if(chessboard[tempi][tempj]=='Q'){
-            return false;
-        }
-        tempi--;
-        tempj--;
-    }
+    
 
     //up right
     tempi=i;
@@ -31,7 +22,16 @@ bool issafe(int i,int j,int n,vector<vector<char>>&chessboard){
         tempi--;
         tempj++;
     }
-
+    //up left
+    tempi=i;
+    tempj=j;
+    while(tempi>=0 && tempj>=0){
+        if(chessboard[tempi][tempj]=='Q'){
+            return false;
+        }
+        tempi--;
+        tempj--;
+    }
 
     return true;
     
