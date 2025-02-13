@@ -5,7 +5,7 @@ public:
         int longest=0;
         for(int num:numset){
             if(numset.find(num-1)==numset.end()){
-                int length=0;
+                int length=1;
                 while(numset.find(num+length)!=numset.end()){
                     length++;
                 }
