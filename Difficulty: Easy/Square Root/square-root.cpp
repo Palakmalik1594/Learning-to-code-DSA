@@ -10,19 +10,8 @@ using namespace std;
 class Solution {
   public:
     int floorSqrt(int n) {
-        if(n==1){
-            return 1;
-        }
-        for(int i=2;i<n;i++){
-            if(i*i==n){
-                return i;
-            }else{
-                if((i*i)>n){
-                    return (i-1); 
-                }
-            }
-        }
-        return 0;
+        int ans=sqrt(n);
+        return ans;
         // Your code goes here
     }
 };
