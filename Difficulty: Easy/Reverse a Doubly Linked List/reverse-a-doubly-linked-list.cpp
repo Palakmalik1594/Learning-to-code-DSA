@@ -71,18 +71,18 @@ class Solution {
     // Function to reverse a doubly linked list
     DLLNode* reverseDLL(DLLNode* head) {
        DLLNode* temp=head;
-       if(head==NULL || head->next==NULL){
+       if(head==NULL){
            return head;
        }
-       stack<int>st;
+       vector<int>st;
        while(temp!=NULL){
-           st.push(temp->data);
+           st.push_back(temp->data);
            temp=temp->next;
        }
+       reverse(st.begin(),st.end());
        temp=head;
-       while(temp!=NULL){
-           temp->data=st.top();
-           st.pop();
+       for(int i=0;i<st.size();i++){
+           temp->data=st[i];
            temp=temp->next;
        }
        return head;
