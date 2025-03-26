@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
