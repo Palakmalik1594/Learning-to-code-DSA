@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0078-subsets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Math
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0344-reverse-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
