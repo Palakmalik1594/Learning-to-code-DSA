@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0078-subsets) |
 | [0724-find-pivot-index](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0724-find-pivot-index) |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0041-first-missing-positive) |
 ## Breadth-First Search
 |  |
 | ------- |
