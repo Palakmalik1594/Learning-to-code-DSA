@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
