@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0078-subsets) |
+| [0724-find-pivot-index](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0724-find-pivot-index) |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2262-solving-questions-with-brainpower) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0724-find-pivot-index) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
