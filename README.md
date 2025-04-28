@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -65,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
