@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0136-single-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Tree
