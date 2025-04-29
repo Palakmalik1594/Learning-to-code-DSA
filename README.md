@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0054-spiral-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
