@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0792-binary-search) |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2262-solving-questions-with-brainpower) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
