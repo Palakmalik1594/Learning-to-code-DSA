@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0189-rotate-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
