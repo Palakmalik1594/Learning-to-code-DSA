@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0128-longest-consecutive-sequence) |
