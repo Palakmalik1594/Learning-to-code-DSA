@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0792-binary-search) |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2262-solving-questions-with-brainpower) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0680-valid-palindrome-ii) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
