@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## Backtracking
 |  |
 | ------- |
