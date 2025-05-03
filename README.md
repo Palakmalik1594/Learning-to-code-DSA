@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2154-minimum-moves-to-convert-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0229-majority-element-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
 | ------- |
