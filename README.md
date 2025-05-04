@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-minimum-moves-to-convert-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Backtracking
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Breadth-First Search
 |  |
