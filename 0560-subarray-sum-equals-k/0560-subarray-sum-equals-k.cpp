@@ -10,7 +10,7 @@ public:
                 sum+=nums[j];
 
                 if(sum==k){
-                    maxi=max(maxi,j-i+1);
+                    count++;
                 }
             }
         }
