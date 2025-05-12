@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
