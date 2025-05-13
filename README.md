@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0680-valid-palindrome-ii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
