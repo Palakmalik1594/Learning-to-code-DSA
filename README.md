@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
