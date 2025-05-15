@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3644-minimum-positive-sum-subarray) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Tree
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0680-valid-palindrome-ii) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2154-minimum-moves-to-convert-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
 | ------- |
