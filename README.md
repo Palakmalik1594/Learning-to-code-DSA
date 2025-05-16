@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0940-fruit-into-baskets) |
+| [0958-sort-array-by-parity-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1293-three-consecutive-odds) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0455-assign-cookies) |
+| [0958-sort-array-by-parity-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Matrix
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0958-sort-array-by-parity-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
