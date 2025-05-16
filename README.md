@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1137-height-checker](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0455-assign-cookies) |
 | [0958-sort-array-by-parity-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [1137-height-checker](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1137-height-checker) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Matrix
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2128-reverse-prefix-of-word) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
