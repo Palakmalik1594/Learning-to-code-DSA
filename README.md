@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
 |  |
