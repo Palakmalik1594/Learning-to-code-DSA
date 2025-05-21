@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0520-detect-capital](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0680-valid-palindrome-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
