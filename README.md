@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0682-baseball-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
