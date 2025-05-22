@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2406-decode-the-message](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2226-rings-and-rods) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2406-decode-the-message](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Breadth-First Search
 |  |
