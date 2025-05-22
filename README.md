@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0455-assign-cookies) |
 | [0958-sort-array-by-parity-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1137-height-checker) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0520-detect-capital) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
