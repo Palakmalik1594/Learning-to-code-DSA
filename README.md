@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0412-fizz-buzz) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3321-type-of-triangle](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3321-type-of-triangle) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0682-baseball-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
