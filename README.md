@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2502-sort-the-people](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2502-sort-the-people) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2502-sort-the-people](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2502-sort-the-people) |
 | [3321-type-of-triangle](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2502-sort-the-people) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2502-sort-the-people) |
 ## Breadth-First Search
 |  |
 | ------- |
