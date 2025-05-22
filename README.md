@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
