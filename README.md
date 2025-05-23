@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0412-fizz-buzz) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3321-type-of-triangle](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3321-type-of-triangle) |
 ## Sorting
