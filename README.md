@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
