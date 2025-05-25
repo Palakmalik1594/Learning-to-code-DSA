@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2159-two-out-of-three](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2159-two-out-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0389-find-the-difference) |
+| [2159-two-out-of-three](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2159-two-out-of-three](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
