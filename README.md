@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0494-target-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
