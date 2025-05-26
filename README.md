@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2502-sort-the-people) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2442-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2502-sort-the-people) |
 ## Breadth-First Search
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2442-number-of-arithmetic-triplets) |
 ## Greedy
 |  |
 | ------- |
