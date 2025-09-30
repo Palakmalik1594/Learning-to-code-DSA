@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0680-valid-palindrome-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Counting Sort
