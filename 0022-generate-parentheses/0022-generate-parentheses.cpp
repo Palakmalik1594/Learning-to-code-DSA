@@ -1,35 +1,27 @@
 class Solution {
 public:
-vector<string>ans;
-vector<char>seq;
-void recur(int index,int sum,int L){
-    if(index==L){
-        if(sum==0){
-                 string chars="";
-                 for(auto x:seq){
-                    chars+=x;
-                 }
-                 ans.push_back(chars);
-        }      
-        return;
+    void help(int open,int close,int& n,vector<string>&ans,string& op){
+        if(open==0 && close==0){
+            ans.push_back(op);
+            return;
+        }
+        if(open>0){
+            string op1=op;
+            op1.push_back('(');
+            help(open-1,close,n,ans,op1);
+        }
+        if(close>open){
+            string op2=op;
+            op2.push_back(')');
+            help(open,close-1,n,ans,op2);
+        }
     }
-    if(sum+1<=(L/2)){
-    seq.push_back('(');
-    recur(index+1,sum+1,L);
-    seq.pop_back();
-    }
-
-    if(sum>0){
-        seq.push_back(')');
-        recur(index+1,sum-1,L);
-        seq.pop_back();
-
-    }
-
-}
     vector<string> generateParenthesis(int n) {
-             recur(0,0,2*n);
-             return ans;
-        
+        int open=n;
+        int close=n;
+        vector<string>ans;
+        string op="";
+        help(open,close,n,ans,op);
+        return ans;
     }
 };
