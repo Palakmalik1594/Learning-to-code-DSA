@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0455-assign-cookies) |
 | [0958-sort-array-by-parity-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1137-height-checker) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0680-valid-palindrome-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -384,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/1137-height-checker) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Palakmalik1594/Learning-to-code-DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
